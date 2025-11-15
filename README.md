@@ -7,5 +7,5 @@ Ce document README.md présente le contenu de notre référentiel GIT. Il est é
 1.Rapport d'étude RMarkdown <br>
 2.Application RShiny <br>
 3.Documentation technique de notre application <br>
-4.Documentation fonctionelle de notre application
+4.Documentation fonctionelle de notre application <br>
 5.Captation vidéo de notre application 
