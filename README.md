@@ -2,3 +2,4 @@
 
 Ce document README.md présente le contenu de notre référentiel GIT. Il est écrit dans le caxre de notre porjet R.
 
+## Plannification 
