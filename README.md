@@ -4,7 +4,7 @@ Ce document README.md présente le contenu de notre référentiel GIT. Il est é
 
 ## Plannification 
 
-1.Rapport d'étude RMarkdown /n
+1.Rapport d'étude RMarkdown /r
 2.Application RShiny
 3.Documentation technique de notre application
 4.Documentation fonctionelle de notre application
