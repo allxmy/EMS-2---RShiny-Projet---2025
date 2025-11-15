@@ -2,6 +2,12 @@
 
 Ce document README.md présente le contenu de notre référentiel GIT. Il est écrit dans le caxre de notre porjet R.
 
+## Objectifs du projet
+
+Utilisation du langage R pour évaluer l'impact de la classe de Diagnostic de Performance Energétique sur les consommations électriques de logements.
+
+
+
 ## Plannification 
 
 1.Rapport d'étude RMarkdown <br>
