@@ -17,6 +17,6 @@ Utilisation du langage R pour évaluer l'impact de la classe de Diagnostic de Pe
 5. Captation vidéo de notre application 
 
 
-## Les liens utiles
+## Liens utiles
 shinyapps.io : "https....   <br>
 video ytb : "htpps...
