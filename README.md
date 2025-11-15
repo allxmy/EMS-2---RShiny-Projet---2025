@@ -10,8 +10,8 @@ Utilisation du langage R pour évaluer l'impact de la classe de Diagnostic de Pe
 
 ## Plannification 
 
-1.Rapport d'étude RMarkdown <br>
-2.Application RShiny <br>
-3.Documentation technique de notre application <br>
-4.Documentation fonctionelle de notre application <br>
-5.Captation vidéo de notre application 
+1. Rapport d'étude RMarkdown <br>
+2. Application RShiny <br>
+3. Documentation technique de notre application <br>
+4. Documentation fonctionelle de notre application <br>
+5. Captation vidéo de notre application 
