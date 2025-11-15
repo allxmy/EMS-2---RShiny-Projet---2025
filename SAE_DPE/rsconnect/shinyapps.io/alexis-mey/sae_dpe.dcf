@@ -1,0 +1,10 @@
+name: sae_dpe
+title:
+username: alexis-mey
+account: alexis-mey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16074531
+bundleId: 11182604
+url: https://alexis-mey.shinyapps.io/sae_dpe/
+version: 1
