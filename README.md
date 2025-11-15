@@ -19,4 +19,6 @@ Utilisation du langage R pour évaluer l'impact de la classe de Diagnostic de Pe
 
 ## Liens utiles
 shinyapps.io : https://alexis-mey.shinyapps.io/sae_dpe/   <br>
+  identifiant : admin
+  mot de passe : 1234
 video ytb : "htpps...
