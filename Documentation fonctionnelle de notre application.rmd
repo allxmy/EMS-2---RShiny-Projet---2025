@@ -1,0 +1,81 @@
+
+---
+title: "Documentation Fonctionnelle de l’Application DPE"
+output:
+  word_document: default
+  html_document: default
+---
+
+# Introduction
+
+Cette documentation présente le fonctionnement général de l’application Shiny dédiée à l’analyse des Diagnostics de Performance Énergétique (DPE). Elle décrit l’intérêt de chaque page ainsi que les fonctionnalités principales.
+
+# Structure de l’application
+
+L’application est organisée en quatre sections principales accessibles via un tableau de bord :
+
+1. **Accueil**
+2. **Carte**
+3. **Visualisation**
+4. **Modélisation**
+
+Un système de connexion sécurisé est également inclus.
+
+# Page de Connexion
+
+### Objectif
+Restreindre l’accès à l’application aux utilisateurs autorisés.
+
+### Fonctionnalités
+- Saisie d’un identifiant et d’un mot de passe.
+- Vérification des identifiants.
+- Retour visuel en cas d’erreur ou de succès.
+- Passage à l’interface principale après authentification réussie.
+
+# Page Accueil
+
+### Objectif
+Présenter la mission de l’application, ses objectifs, ainsi qu’un résumé des données DPE.
+
+### Fonctionnalités
+- Texte descriptif et introduction.
+- Affichage de graphiques simples (si prévus).
+- Présentation synthétique du dataset.
+
+# Page Carte
+
+### Objectif
+Explorer géographiquement les DPE via une carte interactive.
+
+### Fonctionnalités
+- Carte leaflet affichant les logements géolocalisés.
+- Filtres dynamiques : classe énergétique, type de logement, année, surface, etc.
+- Affichage de pop-ups informatives pour chaque point.
+- Possibilité de zoom et navigation dans la carte.
+
+# Page Visualisation
+
+### Objectif
+Permettre une exploration graphique des données.
+
+### Fonctionnalités
+- Graphiques personnalisables (histogrammes, barplots, boxplots…)
+- Choix de variables en X, Y, couleur.
+- Filtrage en temps réel.
+- Export des graphiques en PNG.
+
+# Page Modélisation
+
+### Objectif
+Permettre à l’utilisateur de construire des modèles prédictifs simples sur la classe DPE.
+
+### Fonctionnalités
+- Sélection du modèle (ex. régression, random forest…)
+- Sélection des variables explicatives
+- Entraînement automatique
+- Affichage des performances : précision, matrice de confusion
+- Téléchargement des résultats
+
+# Conclusion
+
+L’application DPE constitue un outil complet de visualisation, exploration géographique et modélisation, intégrant une interface intuitive et des filtres performants.
