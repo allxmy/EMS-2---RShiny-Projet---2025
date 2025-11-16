@@ -31,4 +31,4 @@ Les 4 derniers fichiers ont été créer pour le bon déploiement de l'applicati
 ## Liens utiles
 shinyapps.io : https://alexis-mey.shinyapps.io/sae_dpe/   <br>
   identifiant : admin --- mot de passe : 1234 <br>
-video ytb : "htpps...
+video ytb : https://youtu.be/mlBSPbBiZl0
