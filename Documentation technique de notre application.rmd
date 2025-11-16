@@ -12,33 +12,7 @@ output:
 
 # 1. Schéma d'architecture
 
-```mermaid
-flowchart TD
-  subgraph App
-    A[app.R]
-    UI[UI (shiny UI + shinydashboard)]
-    SV[Server (reactive, renderPlot, renderLeaflet,...)]
-  end
-  subgraph Resources
-    W[www/identification.png]
-    DATA[Données (CSV / API via httr)]
-  end
-  subgraph Outputs
-    PLOTS[ggplot2 plots]
-    MAP[Leaflet map]
-    TABLE[DT tables]
-    EXPORTS[Exports PNG]
-  end
-
-  A --> UI
-  A --> SV
-  SV --> PLOTS
-  SV --> MAP
-  SV --> TABLE
-  SV --> EXPORTS
-  SV --> DATA
-  UI --> W
-```
+![description](https://github.com/allxmy/EMS-2---RShiny-Projet---2025/blob/main/architecture.png)
 
 L’application utilise un fichier unique `app.R` intégrant l’UI et le serveur.
 
